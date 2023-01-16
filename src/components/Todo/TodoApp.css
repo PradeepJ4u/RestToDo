@@ -1,0 +1,16 @@
+label, input, button{
+    margin: 10px;
+    padding: 5px;
+
+}
+.loginButton {
+    background-color: blanchedalmond;
+
+}
+
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+    height: 40px;
+}
